@@ -5,3 +5,13 @@ requests==2.32.4
 structlog==25.1.0
 
 google-auth==2.3.2
+Flask
+Flask-SocketIO
+python-socketio
+python-engineio
+eventlet
+Jinja2
+Werkzeug
+itsdangerous
+click
+gunicorn
